@@ -1,4 +1,4 @@
-tornado==6.0.3
+tornado==6.0.4
 html5lib==1.0.1
 httplib2==0.17.4
 requests==2.20.0
