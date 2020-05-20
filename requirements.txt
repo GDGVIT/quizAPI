@@ -1,6 +1,6 @@
 tornado==6.0.4
 html5lib==1.0.1
-httplib2==0.17.4
+httplib2==0.18.0
 requests==2.23.0
 simplejson==3.17.0
 urllib3==1.25.9
