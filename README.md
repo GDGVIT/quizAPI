@@ -1,7 +1,23 @@
-# QuizAPI
-Quiz API for GDG Devfest VIT VELLORE<br>
-Framework used : Tornado<br>
-Aim : Quizzing API for Android Application.<br>
-The app is published at : https://play.google.com/store/apps/details?id=exam.vsrk.devfestgdg<br>
-Made with ❤ by : Ashwini  Purohit  and Shubhodeep Mukherjee.<br>
+<p align="center">
+<a href="https://dscvit.com">
+	<img src="https://user-images.githubusercontent.com/30529572/72455010-fb38d400-37e7-11ea-9c1e-8cdeb5f5906e.png" />
+</a>
+	<h2 align="center">QuizAPI</h2>
+	<h4 align="center">Quizzing API for Android Application for GDG Devfest VIT Vellore.<h4>
+</p>
+
+---
+## Framework
+Tornado
+
+## Contributors
+- [Ashwini Purohit](https://github.com/https://github.com/ashwini0529)
+- [Shubhodeep Mukherjee](https://github.com/GDGVIT/quizAPI/commits?author=shubhodeep9)
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+<p align="center">
+	Made with :heart: by <a href="https://dscvit.com">DSC VIT</a>
+</p>
 
