@@ -4,4 +4,4 @@ httplib2==0.18.1
 requests==2.24.0
 simplejson==3.17.2
 urllib3==1.25.11
-wadllib==1.3.4
+wadllib==1.3.5
